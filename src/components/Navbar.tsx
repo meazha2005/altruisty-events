@@ -58,13 +58,6 @@ export default function Navbar() {
             <a href="#faqs" className="hover:text-sky-600 transition-colors">
               FAQs
             </a>
-            <Link
-              href="/admin"
-              className="flex items-center gap-1.5 text-xs text-slate-600 hover:text-slate-900 border border-slate-200 hover:border-slate-300 bg-slate-50 px-3 py-1.5 rounded-lg transition-all"
-            >
-              <UserCheck className="w-3.5 h-3.5 text-sky-600" />
-              Admin
-            </Link>
           </nav>
 
           {/* CTA Button */}

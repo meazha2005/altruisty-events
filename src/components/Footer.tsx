@@ -83,11 +83,6 @@ export default function Footer() {
                   Register Now (₹149)
                 </a>
               </li>
-              <li>
-                <Link href="/admin" className="text-slate-500 hover:text-sky-600">
-                  Admin Dashboard Login
-                </Link>
-              </li>
             </ul>
           </div>
 
