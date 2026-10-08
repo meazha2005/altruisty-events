@@ -125,7 +125,7 @@ export default function Hero() {
                 <Briefcase className="w-4 h-4" /> Career
               </div>
               <div className="text-base font-extrabold text-[#0b192c]">Internships</div>
-              <div className="text-[11px] text-slate-500">With Monthly Stipend</div>
+              <div className="text-[11px] text-slate-500">Training and projects</div>
             </div>
 
           </div>
@@ -190,18 +190,6 @@ export default function Hero() {
             </div>
           </div>
 
-          {/* Trust bullets */}
-          <div className="mt-8 flex flex-wrap items-center justify-center gap-y-2 gap-x-6 text-xs text-slate-600 font-medium">
-            <span className="flex items-center gap-1.5">
-              <CheckCircle2 className="w-4 h-4 text-emerald-600" /> Instant Email Confirmation
-            </span>
-            <span className="flex items-center gap-1.5">
-              <CheckCircle2 className="w-4 h-4 text-emerald-600" /> Secure Live Razorpay Gateway
-            </span>
-            <span className="flex items-center gap-1.5">
-              <CheckCircle2 className="w-4 h-4 text-emerald-600" /> Participation Certificates for All
-            </span>
-          </div>
 
         </div>
       </div>

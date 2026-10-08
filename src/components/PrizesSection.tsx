@@ -14,7 +14,6 @@ export default function PrizesSection() {
       perks: [
         '₹10,000 Direct Cash Prize',
         'Internship Opportunity',
-        'Internship with Monthly Stipend',
         'Winner Trophy & Certificate of Excellence',
       ],
       popular: true,
@@ -28,7 +27,6 @@ export default function PrizesSection() {
       perks: [
         '₹8,000 Direct Cash Prize',
         'Internship Opportunity',
-        'Internship with Monthly Stipend',
         'Certificate of Excellence',
       ],
       popular: false,
@@ -42,7 +40,6 @@ export default function PrizesSection() {
       perks: [
         '₹6,000 Direct Cash Prize',
         'Internship Opportunity',
-        'Internship with Monthly Stipend',
         'Certificate of Excellence',
       ],
       popular: false,
@@ -63,7 +60,7 @@ export default function PrizesSection() {
             🏆 Prizes & <span className="text-amber-600">Recognition</span>
           </h2>
           <p className="mt-3 text-base text-slate-600">
-            Compete on a national platform for lucrative cash rewards, certified accolades, and career-launching stipendiary internships.
+            Compete on a national platform for lucrative cash rewards, certified accolades, and internships.
           </p>
         </div>
 
@@ -136,9 +133,6 @@ export default function PrizesSection() {
               <h4 className="text-xl font-black text-[#0b192c] font-heading mt-0.5">
                 ⭐ Best Performing Team
               </h4>
-              <p className="text-xs sm:text-sm text-slate-600 mt-1">
-                The Best Performing Team evaluated by the jury will also be awarded an exclusive <strong>Internship with Stipend</strong> & Certificate!
-              </p>
             </div>
           </div>
 

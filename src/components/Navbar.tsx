@@ -62,26 +62,12 @@ export default function Navbar() {
 
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-3">
-            <a
-              href="#register"
-              className="relative group inline-flex items-center gap-2 px-5 py-2.5 rounded-xl font-bold text-sm text-white bg-gradient-to-r from-sky-500 via-blue-600 to-indigo-600 hover:from-sky-400 hover:to-blue-700 shadow-md shadow-sky-500/20 hover:shadow-lg transition-all duration-200 transform hover:-translate-y-0.5 active:translate-y-0"
-            >
-              <Sparkles className="w-4 h-4 text-yellow-300" />
-              <span>Register Team</span>
-              <span className="bg-white/20 text-white text-xs px-2 py-0.5 rounded-md font-extrabold border border-white/30">
-                ₹149
-              </span>
-            </a>
+            
           </div>
 
           {/* Mobile Menu Button */}
           <div className="flex md:hidden items-center gap-2">
-            <a
-              href="#register"
-              className="text-xs font-bold text-white bg-sky-600 hover:bg-sky-500 px-3 py-1.5 rounded-lg shadow-sm"
-            >
-              Register ₹149
-            </a>
+            
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2 rounded-lg text-slate-700 hover:text-black bg-slate-100 border border-slate-200"

@@ -20,10 +20,6 @@ export default function FaqSection() {
       a: 'Round 1 is an online idea/project submission (closes Oct 20). The Top 100 teams advance to Round 2 (Online PPT Presentation in November 2026). The Top 25 teams advance to Round 3 (Offline Grand Finale on December 5, 2026).',
     },
     {
-      q: 'What prizes and internship opportunities are offered?',
-      a: '1st Prize: ₹10,000 Cash Prize. 2nd Prize: ₹8,000 Cash Prize. 3rd Prize: ₹6,000 Cash Prize. The Top 3 Winning Teams will also receive an Internship Opportunity with Stipend & Certificate. The Best Performing Team will also receive an Internship with Stipend!',
-    },
-    {
       q: 'Can members be from different colleges or departments?',
       a: 'Yes! Cross-college and cross-department teams are completely allowed. We encourage multidisciplinary teams combining technical, design, and domain skills.',
     },
